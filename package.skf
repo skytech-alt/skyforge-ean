@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-ean"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Валидация штрихкодов EAN-13."
+    репозиторий = "github.com/skytech-alt/skyforge-ean"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
